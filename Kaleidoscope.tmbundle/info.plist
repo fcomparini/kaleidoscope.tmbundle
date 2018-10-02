@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>sryvcr@pbzcnevav.py</string>
+	<key>contactName</key>
+	<string>Felipe Comparini</string>
+	<key>description</key>
+	<string>Press Command-K for compare selected (two) files or folders with Kaleidoscope App</string>
+	<key>name</key>
+	<string>Kaleidoscope</string>
+	<key>uuid</key>
+	<string>961AD22E-6685-44DB-B927-448B36418F77</string>
+</dict>
+</plist>
